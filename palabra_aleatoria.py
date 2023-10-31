@@ -1,5 +1,6 @@
 """
 modulo de lectura de palabra aleatoria
+desde fichero texto
 """
 import random
 
